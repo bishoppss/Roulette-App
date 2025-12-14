@@ -1,0 +1,16 @@
+{
+  "name": "HRR Calculator",
+  "short_name": "HRR Calculator",
+  "description": "HRR Calculator",
+  "icons": [
+    {
+      "sizes": "1599×1066",
+      "type": "image/png",
+      "src": "https://cdn.glitch.global/27541a9d-96c8-4f71-872a-68e3ee80cbfa/image_2024-02-23_202822205.png?v=1708738103260"
+    }
+  ],
+  "display": "standalone",
+  "background_color": "blue",
+  "theme_color": "lightblue",
+  "start_url": "/index.html"
+}
